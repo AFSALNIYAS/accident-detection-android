@@ -4,11 +4,23 @@
 
 ---
 
-## Demo & Screenshots
+## Screenshots
 
-| Monitoring | Accident Alert | Emergency Info |
+| Splash | Login | Register |
 |:---:|:---:|:---:|
-| Real-time speed display | 30-second countdown | Post-alert summary |
+| ![Splash](screenshorts/01_splash.jpeg) | ![Login](screenshorts/02_login.jpeg) | ![Register](screenshorts/03_register.jpeg) |
+
+| User Info | Emergency Contacts | Speed Limit |
+|:---:|:---:|:---:|
+| ![User Info](screenshorts/04_user_info.jpeg) | ![Contacts](screenshorts/05_emergency_contacts.jpeg) | ![Speed Limit](screenshorts/06_speed_limit.jpeg) |
+
+| Speed Monitoring | Accident Alert | Emergency Info |
+|:---:|:---:|:---:|
+| ![Monitoring](screenshorts/07_speed_monitoring.jpeg) | ![Alert](screenshorts/08_accident_alert.jpeg) | ![Emergency](screenshorts/09_emergency_info.jpeg) |
+
+| Notifications | Navigation Drawer |
+|:---:|:---:|
+| ![Notifications](screenshorts/10_notifications.jpeg) | ![Drawer](screenshorts/11_navigation_drawer.jpeg) |
 
 ---
 
