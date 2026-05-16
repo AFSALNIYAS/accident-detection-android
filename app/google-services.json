@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "878280517539",
+    "project_id": "accident-alert-f8281",
+    "storage_bucket": "accident-alert-f8281.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878280517539:android:51f0d42a1459c52ab9dc16",
+        "android_client_info": {
+          "package_name": "com.example.accident_detection3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTKq4GzDntIK5cmohH4W1gMUm8c9z_tmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

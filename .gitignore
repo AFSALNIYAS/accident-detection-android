@@ -1,0 +1,26 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Large archives
+*.zip
+
+# Node / Cloud Functions dependencies
+functions/node_modules/
+node_modules/
+
+# Firebase — google-services.json is intentionally tracked.
+# The API key is restricted to this package name + SHA fingerprint on the Firebase console.
+# local.properties (which may contain signing keys) is excluded above.
